@@ -9,6 +9,9 @@ public class MyGitClass {
 		System.out.println("my fourth commit");
 		System.out.println("my 5th commit");
 		System.out.println("Uzak sunucudaki kodum");
+		System.out.println("Yakup Branch'inde yazdigim kodlar");
+		System.out.println("Yakup branch 2th degisiklik");
+		
 
 	}
 
